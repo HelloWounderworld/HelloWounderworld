@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Full Stack Develop Jr. at Buu Digital Group
 - 🌱 I’m currently learning frameworks as JavaScript and Python for Back-End. Moreover, I'm studing VueJS for frontEnd.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help an supervisor to instruct me at the tecnologie world, because I very young in this world with just one year experience.
+- 🤔 I’m looking for help an supervisor to instruct me at the tecnologie world, because I very young in this world with just one year of experience.
 - 💬 Ask me about: Math, Back-End, Front-End, Architecture and Infra.
 - 📫 How to reach me: www.linkedin.com/in/leonardo-teramatsu-691810220
 - 😄 Pronouns: He/His
