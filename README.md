@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Junior System Engineer at Minsait and Indra Company
+- 🔭 I’m currently working as Consultant Engineer at Persol Cross Technology
 - 🌱 I’m currently learning programming language as JavaScript and Python for Back-End.
 - 👯 I’m looking to collaborate on Data Science and Artificial Intelligence
 - 🤔 I’m looking for help an supervisor to instruct me at the tecnologie world, because I very young in this world with just one year of experience.
