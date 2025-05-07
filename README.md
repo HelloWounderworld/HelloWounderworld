@@ -23,7 +23,7 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 
 ---
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" width="25"> **MATRIX LANGUAGE**
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" width="50"> **MATRIX LANGUAGE**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWounderworld&layout=pie&theme=dark&hide_border=true&title_color=9D72FF&text_color=00F7FF&icon_color=FF007A" alt="Language Distribution">
 </div>
