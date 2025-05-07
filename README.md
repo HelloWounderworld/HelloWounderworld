@@ -48,8 +48,7 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 {
   "linkedin": "www.linkedin.com/in/leonardo-t-691810220",
   "knowledge_base": {
-    "current_learning": ["Advanced Algorithms", "Neural Networks"],
-    "mentorship_request": "Software Engineer"
+    "current_learning": ["Artificial Intelligence", "Data Science", "System Architecture", "Math Analysis"],
   },
   "otaku_modules": {
     "math": "Activated", 
