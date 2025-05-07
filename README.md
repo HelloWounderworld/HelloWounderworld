@@ -23,14 +23,14 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 
 ---
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" width="25"> **LINGUAGEM DA MATRIX**
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" width="25"> **MATRIX LANGUAGE**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWounderworld&layout=pie&theme=dark&hide_border=true&title_color=9D72FF&text_color=00F7FF&icon_color=FF007A" alt="Language Distribution">
 </div>
 
 ---
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/control-knobs_1f39b-fe0f.png" width="25"> **SISTEMA OPERACIONAL**
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/control-knobs_1f39b-fe0f.png" width="25"> **OPERATIONAL SYSTEM**
 ```diff
 + [ACTIVE] Back-End Engineering Suite (Node.js/Python)
 ! [WARNING] Front-End Visual Cortex (React 18.2 - 40% Load)
@@ -40,7 +40,7 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 
 ---
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/locked-with-key_1f510.png" width="25"> **CREDENCIAIS DE ACESSO**
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/locked-with-key_1f510.png" width="25"> **ACCESS CREDENTIALS**
 ```json
 {
   "linkedin": "www.linkedin.com/in/leonardo-t-691810220",
@@ -58,7 +58,7 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 
 ---
 
-### <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" width="25"> **HISTÓRICO DE ATIVIDADES**
+### <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" width="25"> **ACTIVITY HISTORY**
 <div align="center">
   <img src="https://raw.githubusercontent.com/HelloWounderworld/HelloWounderworld/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </div>
