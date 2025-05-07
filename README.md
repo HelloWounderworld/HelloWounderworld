@@ -15,9 +15,9 @@
 ```properties
 # core.config
 Username = "HelloWounderworld"
-NeuralOS = "Persol Cross Tech v4.2.1"
+NeuralOS = "Persol Cross Technology"
 Subsystems = [JavaScript, Python, Mathematics]
-Experience = 1.3 cycles
+Experience = 3 years as Software Engineer
 MemoryAllocation = "85% Technical, 15% Otaku"
 ```
 
@@ -32,10 +32,9 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/control-knobs_1f39b-fe0f.png" width="25"> **OPERATIONAL SYSTEM**
 ```diff
-+ [ACTIVE] Back-End Engineering Suite (Node.js/Python)
-! [WARNING] Front-End Visual Cortex (React 18.2 - 40% Load)
-# [IDLE] AI Neural Networks (TensorFlow/Keras)
-- [OFFLINE] Cloud Infrastructure Certifications
++ [ACTIVE] Linux Ubuntu
++ [ACTIVE] Windows 11
++ [ACTIVE] macOS
 ```
 
 ---
@@ -46,7 +45,7 @@ MemoryAllocation = "85% Technical, 15% Otaku"
   "linkedin": "www.linkedin.com/in/leonardo-t-691810220",
   "knowledge_base": {
     "current_learning": ["Advanced Algorithms", "Neural Networks"],
-    "mentorship_request": "Senior Architect (Cloud/AI)"
+    "mentorship_request": "Software Engineer"
   },
   "otaku_modules": {
     "math": "Activated", 
@@ -68,7 +67,6 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 
 > **SYSTEM MESSAGE:**  
 > *"No cruzamento entre teoremas e algoritmos, construo realidades paralelas. Um dia, os otakus governarão o código-fonte do universo."*  
-> `[Última atualização: 2025-05-07T18:34:54Z]`
 
 <!-- 
   █▄█ █▀█ █░█   █▀▀ █▀█ █▀▄▀█ █▀▀ ▀█▀ █░█ █▀█ █▀▀
