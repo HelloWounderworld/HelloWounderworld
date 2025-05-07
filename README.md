@@ -59,8 +59,9 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 ---
 
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/snake_1f40d.png" width="25"> **ACTIVITY HISTORY**
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HelloWounderworld/HelloWounderworld/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/HelloWounderworld/HelloWounderworld/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
