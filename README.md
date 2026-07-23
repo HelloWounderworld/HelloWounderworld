@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=1000&color=9D72FF&center=true&vCenter=true&width=480&lines=SYSTEM%20STATUS%3A%20ONLINE;NEURAL%20LINK%20ESTABLISHED;WELCOME%20TO%20THE%20GRID" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=1000&color=9D72FF&center=true&vCenter=true&width=480&lines=HELLO%20WOUNDER%20WORLD!;SYSTEM%20STATUS%3A%20ONLINE;NEURAL%20LINK%20ESTABLISHED;WELCOME%20TO%20THE%20GRID!" alt="Typing Animation">
 </div>
 
 ---
