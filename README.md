@@ -16,8 +16,8 @@
 # core.config
 Username = "HelloWounderworld"
 NeuralOS = "Persol Cross Technology"
-Subsystems = [JavaScript, Python, Mathematics]
-Experience = 3 years as Software Engineer
+Subsystems = [Python, Mathematics, Statistics, Linux]
+Experience = 5 years as Software Engineer
 MemoryAllocation = "85% Technical, 15% Otaku"
 ```
 
@@ -26,7 +26,12 @@ MemoryAllocation = "85% Technical, 15% Otaku"
 ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" width="25"> **MATRIX LANGUAGE**
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWounderworld&layout=pie&theme=dark&hide_border=true&title_color=9D72FF&text_color=00F7FF&icon_color=FF007A"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HelloWounderworld&theme=holi"
+    alt="Language Distribution"
+    width="400"
+  >
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HelloWounderworld&theme=holi"
     alt="Language Distribution"
     width="400"
   >
