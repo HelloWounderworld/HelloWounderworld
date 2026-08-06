@@ -20,7 +20,7 @@ Subsystems = [Python, Mathematics, Statistics, Linux]
 Experience = "4 years as Software Engineer and 2 years as AI developer"
 BachelorsDegree = "Mathematics from the University of São Paulo"
 GraduateDegree = "Data Science and Analytics from the University of São Paulo through the USP-ESALQ MBA program"
-MyAreasOfResearchInterest = "Dynamical System Applied to grow up the models halflife and optimization of the supervised model's predictions"
+MyAreasOfResearchInterest = "Dynamical System Applied to grow up the models halflife and optimization of the supervised models predictions"
 MemoryAllocation = "85% Technical, 15% Otaku"
 ```
 
