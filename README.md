@@ -17,7 +17,7 @@
 Username = "HelloWounderworld"
 NeuralOS = "Persol Cross Technology"
 Subsystems = [Python, Mathematics, Statistics, Linux]
-Experience = 5 years as Software Engineer
+Experience = 4 years as Software Engineer
 MemoryAllocation = "85% Technical, 15% Otaku"
 ```
 
